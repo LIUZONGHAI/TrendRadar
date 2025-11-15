@@ -1,6 +1,6 @@
-胖东来
-于东来
-
+腾讯
+阿里巴巴
+alibaba
 DeepSeek
 梁文锋
 
@@ -9,8 +9,8 @@ DeepSeek
 HarmonyOS
 任正非
 
-比亚迪
-王传福
+中芯国际
+药明
 
 大疆
 DJI
