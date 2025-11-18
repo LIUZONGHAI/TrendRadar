@@ -2,12 +2,13 @@
 alibaba
 中芯国际
 腾讯
-微信
-A股
-港股
+药明
 DeepSeek
 梁文锋
 BTB
+ETH
+比特币
+以太坊
 加密货币
 赵长鹏
 何一
@@ -18,9 +19,8 @@ okx
 bitget
 metamask
 特斯拉
-马斯克
-微软
-Microsoft
+Tesla
+elon musk
 英伟达
 NVIDIA
 黄仁勋
